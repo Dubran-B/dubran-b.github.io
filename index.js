@@ -13,7 +13,7 @@ async function _rgiuh() {
     headers: {
       'Content-Type': 'application/json'
     },
-    body: JSON.stringify(payload)
+    body: `JSON.stringify(payload)`
   })
   .catch(error => console.error(error));
 }
